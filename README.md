@@ -1,1 +1,1 @@
-# BAONGOC-1
+# BAONGOC-1  STUDY github to pyhon
